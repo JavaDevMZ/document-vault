@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dNuPJNuUsXc=",
+  "dgSpecHash": "jfdsfFimdJc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\doc-vault\\DocVault.API\\DocVault.API.csproj",
+  "projectFilePath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\document-vault\\DocVault.API\\DocVault.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maksimzelinskyi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.6\\microsoft.aspnetcore.authentication.jwtbearer.9.0.6.nupkg.sha512",
     "C:\\Users\\maksimzelinskyi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",

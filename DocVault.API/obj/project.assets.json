@@ -1062,11 +1062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maksimzelinskyi\\vscode-projects\\doc-vault\\DocVault.API\\DocVault.API.csproj",
+      "projectUniqueName": "C:\\Users\\maksimzelinskyi\\vscode-projects\\document-vault\\DocVault.API\\DocVault.API.csproj",
       "projectName": "DocVault.API",
-      "projectPath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\doc-vault\\DocVault.API\\DocVault.API.csproj",
+      "projectPath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\document-vault\\DocVault.API\\DocVault.API.csproj",
       "packagesPath": "C:\\Users\\maksimzelinskyi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\doc-vault\\DocVault.API\\obj\\",
+      "outputPath": "C:\\Users\\maksimzelinskyi\\vscode-projects\\document-vault\\DocVault.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maksimzelinskyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
